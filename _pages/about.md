@@ -8,9 +8,21 @@ redirect_from:
 ---
 
 Senior Lecturer in Cybersecurity (qurrat.ul.ain@vuw.ac.nz)
-[Centre for Data Science and Artificial Intelligence (CDSAI)](https://www.wgtn.ac.nz/cdsai)
+[Centre for Data Science and Artificial Intelligence (CDSAI)](https://www.wgtn.ac.nz/cdsai) 
 [School of Engineering and Computer Science (SECS)](https://www.wgtn.ac.nz/ecs)
 [Victoria University of Wellington (VUW)](https://www.wgtn.ac.nz/)
+
+Research Interests
+
+- Artificial Intelligence
+- Interpretable AI
+- Genetic Programming
+- Evolutionary Computation
+- Cybersecurity
+- Medical Image Analysis
+
+I am a Senior Lecturer in Cybersecurity and Artificial Intelligence at Victoria University of Wellington. My research focuses on developing interpretable machine learning models using evolutionary computation techniques and applying them to healthcare and cybersecurity problems.
+
 
 **News**
 
