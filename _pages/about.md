@@ -25,7 +25,7 @@ I am a Senior Lecturer in Cybersecurity and Artificial Intelligence at Victoria 
 
 
 **News**
-- Poster Award “popular vote”. Skin Cancer and Breast Cancer Image Classification Using Genetic Programming. [Centre for Biodiscovery, School of Biological Sciences,](https://www.wgtn.ac.nz/sbs/research-centres-institutes/centre-for-biodiscovery) Victoria University of Wellington, Aug 2025
+- <span style="color:red;">Poster Award “popular vote”</span>. Skin Cancer and Breast Cancer Image Classification Using Genetic Programming. [Centre for Biodiscovery, School of Biological Sciences,](https://www.wgtn.ac.nz/sbs/research-centres-institutes/centre-for-biodiscovery) Victoria University of Wellington, Aug 2025
 - Our Student awarded with fully funded NASA JPL internships for 10 weeks in summer 2025, Los Angeles, USA.
 - Our Student awarded with a fully funded SPECIES Scholarship for three months at the University of Trento, Italy, Oct-Dec 2025.
 - Best Student Paper award nomination, our paper "Genetic Programming with Co-operative Co-evolution for Feature Manipulation in Basal Cell Carcinoma Identification". International Conference on the Applications of Evolutionary Computation (EvoApps, Part of EvoStar), 2025
