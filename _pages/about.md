@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Senior Lecturer in Cybersecurity (qurrat.ul.ain@vuw.ac.nz)  
+Senior Lecturer in Cybersecurity (qurrat.ul.ain@vuw.ac.nz)<br> 
 [Centre for Data Science and Artificial Intelligence (CDSAI)](https://www.wgtn.ac.nz/cdsai)   
 [School of Engineering and Computer Science (SECS)](https://www.wgtn.ac.nz/ecs)  
 [Victoria University of Wellington (VUW)](https://www.wgtn.ac.nz/)  
