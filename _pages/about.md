@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Senior Lecturer in Cybersecurity (qurrat.ul.ain@vuw.ac.nz)<br> 
+Senior Lecturer in Cybersecurity (<a href="mailto:qurrat.ul.ain@vuw.ac.nz">qurrat.ul.ain@vuw.ac.nz</a><br>)  
 [Centre for Data Science and Artificial Intelligence (CDSAI)](https://www.wgtn.ac.nz/cdsai)   
 [School of Engineering and Computer Science (SECS)](https://www.wgtn.ac.nz/ecs)  
 [Victoria University of Wellington (VUW)](https://www.wgtn.ac.nz/)  
@@ -25,11 +25,18 @@ I am a Senior Lecturer in Cybersecurity and Artificial Intelligence at Victoria 
 
 
 **News**
+- Poster Award “popular vote”. Skin Cancer and Breast Cancer Image Classification Using Genetic Programming. [Centre for Biodiscovery, School of Biological Sciences,](https://www.wgtn.ac.nz/sbs/research-centres-institutes/centre-for-biodiscovery) Victoria University of Wellington, Aug 2025
+- Our Student awarded with fully funded NASA JPL internships for 10 weeks in summer 2025, Los Angeles, USA.
+- Our Student awarded with a fully funded SPECIES Scholarship for three months at the University of Trento, Italy, Oct-Dec 2025.
+- Best Student Paper award nomination, our paper "Genetic Programming with Co-operative Co-evolution for Feature Manipulation in Basal Cell Carcinoma Identification". International Conference on the Applications of Evolutionary Computation (EvoApps, Part of EvoStar), 2025
+- Best Paper Award, our paper "Evolving Feature Extraction Models for Melanoma Detection: A Co-operative Co-evolution Approach". International Conference on the Applications of Evolutionary Computation (EvoApps, Part of EvoStar), 2024
+- Best Paper Award, our paper "Towards Clinically Oriented Melanoma Feature Detection through utilisation of Deep Transfer Learning.” International Conference on Image and Vision Computing New Zealand (IVCNZ), 2024
+- Australian Visas for Innovation - Global Talent Independent Program in the Digitech sector: Data Science,
+Artificial Intelligence and Machine Learning (2022). Granted a Global Talent visa in recognition of an
+internationally recognised record of exceptional and outstanding achievements, and the ability to make a
+significant contribution to Australia, and was awarded permanent resident of Australia
+- Winner of Te Heranga Waka research selected for SHEADI filming, Mar 2022, prize money of $1000 NZD
 
-
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
 Getting started
 ======
