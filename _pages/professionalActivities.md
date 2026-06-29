@@ -4,10 +4,7 @@ permalink: /professionalActivities/
 author_profile: true
 ---
 
-## Editorial Activities
-
-## Conference Reviewing
-
-## IEEE Activities
-
-## Professional Memberships
+Editorial Activities
+Conference Reviewing
+IEEE Activities
+Professional Memberships
